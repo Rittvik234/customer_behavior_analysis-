@@ -125,14 +125,6 @@ Specific age groups contribute disproportionately to overall revenue, enabling t
 
 ---
 
-## 📈 Dashboard Preview
-
-*(Add Power BI dashboard screenshots here)*
-
-![Dashboard Screenshot](screenshots/dashboard.png)
-
----
-
 ## 📂 Project Structure
 
 Customer-Shopping-Behavior-Analysis/
